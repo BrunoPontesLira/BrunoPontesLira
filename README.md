@@ -3,7 +3,7 @@
 - 🎓 I am currently learning Data Engineering
 
 ## Contact me on: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bruno-p-91541235)
 
 
 https://www.linkedin.com/in/bruno-p-91541235
