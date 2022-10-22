@@ -1,12 +1,9 @@
 # Hey 🖐, I'm Bruno Lira!
-- 💻 I’m a computer engineer
-- 🎓 I am currently learning Data Engineering
+- 💻 I'm a computer engineer, mobile automation specialist and RPA
+- 🎓 I'm currently learning Data Engineering
 
 ## Contact me on: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bruno-p-91541235)
-
-
-https://www.linkedin.com/in/bruno-p-91541235
 
 <!---
 BrunoPontesLira/BrunoPontesLira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
