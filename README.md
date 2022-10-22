@@ -1,6 +1,5 @@
-# Hey 🖐, I'm Abid!
+# Hey 🖐, I'm Bruno Lira!
 ---
-- 👋 Hi, I’m Bruno Lira (@BrunoPontesLira)
 - 👀 I’m a computer engineer
 - 🌱 I am currently learning Data Engineering
 - 📫 How to reach me -> https://www.linkedin.com/in/bruno-p-91541235
