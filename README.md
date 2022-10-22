@@ -1,7 +1,7 @@
 # Hey 🖐, I'm Bruno Lira!
 ---
-- 👀 I’m a computer engineer
-- 🌱 I am currently learning Data Engineering
+- 💻 I’m a computer engineer
+- 🎓 I am currently learning Data Engineering
 - 📫 How to reach me -> https://www.linkedin.com/in/bruno-p-91541235
 
 <!---
