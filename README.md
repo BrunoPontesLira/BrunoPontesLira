@@ -1,5 +1,5 @@
 # Hey 🖐, I'm Bruno Lira!
-- 💻 I'm a computer engineer, mobile automation specialist and RPA
+- 💻 I'm a computer engineer,:game_die: mobile automation specialist and RPA
 - 🎓 I'm currently learning Data Engineering
 
 ## Contact me on: 
