@@ -5,7 +5,6 @@
   </a>
 </p>
 
-___
 
 ```python
 def introduce_myself():
