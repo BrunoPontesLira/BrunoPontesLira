@@ -16,7 +16,7 @@ introduce_myself()
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=0074D9&width=500&height=45&lines=An+Analytics+Engineer+in+love+with+data;AWS+Community+Builder;A+life+long+learner;Contributing+with+open+source+community" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=0074D9&width=500&height=45&lines=A+Data+Engineer+in+love+with+data;I+am+also+graduated+in+Computer+Engineering" alt="Typing SVG" />
   </a>
 </p>
 
