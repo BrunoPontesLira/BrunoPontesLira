@@ -11,6 +11,7 @@ def introduce_myself():
 
 introduce_myself()
 ```
+___
 
 <p align="left">
   <a href="https://git.io/typing-svg">
