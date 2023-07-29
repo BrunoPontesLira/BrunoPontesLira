@@ -14,7 +14,14 @@ introduce_myself()
 
 ## About Me :man_technologist:
 
-I am a dedicated Data Engineer with a background in Computer Engineering. My journey in the realm of data has been nothing short of fascinating. I thrive on transforming raw information into meaningful insights.
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=0074D9&width=500&height=45&lines=An+Analytics+Engineer+in+love+with+data;AWS+Community+Builder;A+life+long+learner;Contributing+with+open+source+community" alt="Typing SVG" />
+  </a>
+</p>
+
+
+My journey in the realm of data has been nothing short of fascinating. I thrive on transforming raw information into meaningful insights.
 
 ## Skills :computer:
 
