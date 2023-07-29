@@ -21,6 +21,9 @@ introduce_myself()
 ```
 
 My journey in the realm of data has been nothing short of fascinating. I thrive on transforming raw information into meaningful insights.
+
+___
+
 <p align="right">
   
   <a href="https://www.linkedin.com/in/brunoponteslira/" target="_blank">
