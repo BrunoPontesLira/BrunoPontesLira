@@ -41,13 +41,13 @@ ___
 - Bachelor's Degree in Computer Engineering
 
 ## Let's Connect!
+
+I believe in the power of collaboration and continuous learning. Feel free to reach out to me on LinkedIn. Let's connect and explore exciting opportunities together!
 <p align="right">
   <a href="https://www.linkedin.com/in/brunoponteslira/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </p>
-
-I believe in the power of collaboration and continuous learning. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/brunoponteslira/). Let's connect and explore exciting opportunities together!
 
 
 <!---
