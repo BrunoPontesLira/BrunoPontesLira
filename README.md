@@ -12,13 +12,12 @@ def introduce_myself():
 introduce_myself()
 ```
 
-## About Me :man_technologist:
-
 <p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=0074D9&width=500&height=45&lines=A+Data+Engineer+in+love+with+data;I+am+also+graduated+in+Computer+Engineering" alt="Typing SVG" />
   </a>
 </p>
+🎲
 
 
 My journey in the realm of data has been nothing short of fascinating. I thrive on transforming raw information into meaningful insights.
