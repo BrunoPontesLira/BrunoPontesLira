@@ -5,12 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=0074D9&width=500&height=45&lines=I+love+to+discover+what+stories+the+data+tells.;Learn+from+them+to+evolve." alt="Typing SVG" />
   </a>
 </p>
-<p align="right">
-  
-  <a href="https://www.linkedin.com/in/brunoponteslira/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</p>
 
 ___
 
@@ -48,7 +42,12 @@ My journey in the realm of data has been nothing short of fascinating. I thrive 
 
 I believe in the power of collaboration and continuous learning. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/brunoponteslira/). Let's connect and explore exciting opportunities together!
 
-
+<p align="right">
+  
+  <a href="https://www.linkedin.com/in/brunoponteslira/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</p>
 <!---
 BrunoPontesLira/BrunoPontesLira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
