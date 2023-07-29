@@ -21,14 +21,15 @@ introduce_myself()
 
 My journey in the realm of data has been nothing short of fascinating. I thrive on transforming raw information into meaningful insights.
 
-___
-
 <p align="right">
   
   <a href="https://www.linkedin.com/in/brunoponteslira/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </p>
+
+___
+
 
 ## Skills :computer:
 
