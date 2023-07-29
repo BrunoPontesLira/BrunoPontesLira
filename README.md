@@ -1,9 +1,15 @@
 # Hey 🖐, I'm Bruno Lira. :rocket: 
 
-<p align="right">
+<p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=0074D9&width=500&height=45&lines=I+love+to+discover+what+stories+the+data+tells.;Learn+from+them+to+evolve." alt="Typing SVG" />
   </a>
+</p>
+<p align="right">
+  
+  <a href="https://www.linkedin.com/in/brunoponteslira/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
 </p>
 
 ___
