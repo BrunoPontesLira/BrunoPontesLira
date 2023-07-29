@@ -43,7 +43,7 @@ My journey in the realm of data has been nothing short of fascinating. I thrive 
 I believe in the power of collaboration and continuous learning. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/brunoponteslira/). Let's connect and explore exciting opportunities together!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/thiago-panini/" target="_blank">
+  <a href="https://www.linkedin.com/in/brunoponteslira/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </p>
