@@ -21,13 +21,6 @@ introduce_myself()
 
 My journey in the realm of data has been nothing short of fascinating. I thrive on transforming raw information into meaningful insights.
 
-<p align="right">
-  
-  <a href="https://www.linkedin.com/in/brunoponteslira/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</p>
-
 ___
 
 
@@ -47,7 +40,12 @@ ___
 
 - Bachelor's Degree in Computer Engineering
 
-## Let's Connect! :handshake:
+## Let's Connect!
+<p align="right">
+  <a href="https://www.linkedin.com/in/brunoponteslira/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</p>
 
 I believe in the power of collaboration and continuous learning. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/brunoponteslira/). Let's connect and explore exciting opportunities together!
 
