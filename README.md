@@ -38,6 +38,8 @@ ___
 ## Education :mortar_board:
 
 - Bachelor's Degree in Computer Engineering
+- MBA in Data Science & Analytics at USP/Esalq (currently enrolled)
+  - Focused on leveraging advanced analytics and machine learning to drive business innovations and solutions.
 
 ## Let's Connect!
 
