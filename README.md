@@ -28,10 +28,9 @@ ___
 - Data Engineering
 - Python
 - SQL
-- PySpark
 - ETL (Extract, Transform, Load)
 - Data Warehousing
-- Big Data Technologies (Hadoop, Spark)
+- Big Data Technologies (Hadoop, PySpark)
 - Cloud Platforms (AWS, GCP)
 - Machine Learning
 - Data Visualization
