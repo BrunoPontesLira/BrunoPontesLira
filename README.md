@@ -30,7 +30,7 @@ ___
 - SQL
 - ETL (Extract, Transform, Load)
 - Data Warehousing
-- Big Data Technologies (Hadoop, PySpark)
+- Big Data Technologies (Hadoop, Spark)
 - Cloud Platforms (AWS, GCP)
 - Machine Learning
 - Data Visualization
