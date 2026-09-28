@@ -70,7 +70,8 @@ I strongly believe that **data is not just about pipelines, it's about impact.**
 - Data Warehousing
 
 **Cloud & Platforms**
-- AWS (Glue, Athena, Lambda, Step Functions, QuickSight)
+- AWS
+- Google
 
 **Other**
 - GitHub Data Analysis
@@ -91,6 +92,7 @@ I strongly believe that **data is not just about pipelines, it's about impact.**
 ## 🎓 Education & Certifications  
 
 - 🎓 Computer Engineering  
+- 🎓 Postgraduate Degree in Data Engineering
 - 🎓 MBA in Data Science & Analytics  
 - 📜 Google Data Analytics Professional Certificate  
 - 📜 Data Engineering Nanodegree  
